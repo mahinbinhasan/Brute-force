@@ -9,7 +9,7 @@ Just download the Zip file
 
 ```shell
 python main.py
-
+```
 
 ## Contributing
 
